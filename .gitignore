@@ -5,3 +5,10 @@
 /CommonMethod/Test/obj/Debug
 /CommonMethod/.vs/CommonMethod/v15
 /.vs
+/CommonMethod/Test/bin/Debug
+/CommonMethod/LogHelper/bin/Debug
+/CommonMethod/LogHelper/obj/Debug
+/CommonMethod/KafkaHelper/bin/Debug
+/CommonMethod/KafkaHelper/obj/Debug
+/CommonMethod/Common/bin/Debug
+/CommonMethod/Common/obj/Debug
